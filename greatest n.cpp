@@ -21,7 +21,7 @@ T findGreatest(T a, T b, T c)
 int main()
 {
     int int1 = 9, int2 = 19, int3 = 1;
-    char char1 = 'A', char2 = 'Z', char3 = 'M';
+    char char1 = 'B', char2 = 'W', char3 = 'N';
     float float1 = 1.23, float2 = 3.56, float3 = 8.9;
     int maxInt = findGreatest(int1, int2, int3);
     cout << "Max integer: " << maxInt << endl;
